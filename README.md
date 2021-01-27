@@ -9,6 +9,6 @@ Contributor :
 
 jika pakai gitbash silahkan masukan perintah atau copy
 
-`git clone "https://github.com/sahrul-dev/Uji-Skema-PBO.git"`
+`https://github.com/JacK1ght/diagram.git`
 
 Import di Netbeans
